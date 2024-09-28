@@ -1,0 +1,13 @@
+{
+  "tailwindCSS.experimental.classRegex": [
+    "/\\*\\*\\s*@tw\\s*\\*/\\s*\"([^\"]+)\""
+  ],
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "on",
+    "strings": "on"
+  },
+  "tailwindCSS.includeLanguages": {
+    "go": "html"
+  }
+}
