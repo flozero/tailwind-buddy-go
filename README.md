@@ -1,6 +1,6 @@
 # Tailwind component library with GO
 
-![Screenshot 2024-09-28 at 12 48 32 AM](https://github.com/user-attachments/assets/9e405c8e-5730-4355-a4d8-808945e7af87)
+![Screenshot 2024-09-28 at 1 02 54 AM](https://github.com/user-attachments/assets/d53251c0-bc04-4328-bee3-c8ebcf5e8da8)
 
 ## Context
 
@@ -32,4 +32,5 @@ Working on this project has inspired me to dive deeper into Go not necessary on 
 
 ## run the project
 
-`go run cmd/main.go`
+- `go run cmd/main.go`
+- go to http://localhost:8080/
