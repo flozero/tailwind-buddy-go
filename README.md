@@ -29,3 +29,7 @@ Working on this project has inspired me to dive deeper into Go not necessary on 
 
 - Let's Go
 - Let's Go Further
+
+## run the project
+
+`go run cmd/main.go`
